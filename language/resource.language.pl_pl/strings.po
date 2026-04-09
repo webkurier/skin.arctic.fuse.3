@@ -2127,7 +2127,7 @@ msgstr "Kodek"
 
 msgctxt "#31947"
 msgid "Bitrate"
-msgstr "Bitrate"
+msgstr "Przepływność"
 
 msgctxt "#31948"
 msgid "VS10 status"
