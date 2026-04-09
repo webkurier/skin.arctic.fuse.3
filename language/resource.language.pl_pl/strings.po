@@ -1939,15 +1939,15 @@ msgstr "Następna emisja"
 
 msgctxt "#31900"
 msgid "Display mode"
-msgstr "Rozdzielczość"
+msgstr "Tryb ekranu"
 
 msgctxt "#31901"
 msgid "Video mode"
-msgstr "Rozmiar wideo"
+msgstr "Tryb wideo"
 
 msgctxt "#31902"
 msgid "Color space"
-msgstr "Przestrzeń kolorów"
+msgstr "Przestrzeń barw"
 
 msgctxt "#31903"
 msgid "Mb/s"
@@ -1966,8 +1966,8 @@ msgid "VS10 engine"
 msgstr "Tryb VS10"
 
 msgctxt "#31907"
-msgid "More"
-msgstr "Więcej"
+msgid "Processing"
+msgstr "Przetwarzanie"
 
 msgctxt "#31908"
 msgid "Video queue"
@@ -1998,14 +1998,14 @@ msgid "Processor"
 msgstr "Procesor"
 
 msgctxt "#31915"
-msgid "Metadane"
+msgid "Metadata"
 msgstr "Metadane"
 
 msgctxt "#31916"
 msgid "Profile"
 msgstr "Profil"
 
-msgctxt "#32017"
+msgctxt "#31917"
 msgid "Level"
 msgstr "Poziom"
 
@@ -2027,7 +2027,7 @@ msgstr "Typ warstwy ulepszeń"
 
 msgctxt "#31922"
 msgid "Metadata"
-msgstr "Atrybuty"
+msgstr "Metadane"
 
 msgctxt "#31923"
 msgid "Pixel format"
@@ -2127,7 +2127,7 @@ msgstr "Kodek"
 
 msgctxt "#31947"
 msgid "Bitrate"
-msgstr "Przepływ"
+msgstr "Bitrate"
 
 msgctxt "#31948"
 msgid "VS10 status"
@@ -2170,8 +2170,8 @@ msgid "Top right"
 msgstr "U góry po prawej"
 
 msgctxt "#31960"
-msgid "Codec logos (OSD)"
-msgstr "Logo kodeków (OSD)"
+msgid "Position of the codec logos in the OSD"
+msgstr "Rozmieszczenie logo kodeków w menu ekranowym"
 
 msgctxt "#31961"
 msgid "Logo kodeków (PlayerProcessInfo)"
@@ -2190,8 +2190,8 @@ msgid "Original"
 msgstr "Oryginał"
 
 msgctxt "#31965"
-msgid "VS10"
-msgstr "VS10"
+msgid "VS10 mode"
+msgstr "Tryb VS10"
 
 msgctxt "#31966"
 msgid "Audio codec"
@@ -2199,7 +2199,7 @@ msgstr "Kodek audio"
 
 msgctxt "#31967"
 msgid "L5 Active Offsets"
-msgstr "L5 Active Offsets"
+msgstr "Aktywne przesunięcie L5"
 
 msgctxt "#31968"
 msgid "Version"
